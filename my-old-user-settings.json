@@ -1,0 +1,126 @@
+{
+  "editor.inlineSuggest.enabled": true,
+
+  // "php.executablePath": "/Applications/MAMP/bin/php/php8.2.0/lib/php",
+  // "php.executablePath": "/usr/local/bin/php",
+  // "php.executablePath": "/usr/local/etc/php/8.2",
+  // "php.executablePath": "/Users/jarvis/Library/Application Support/Herd/bin//php",
+  "php.executablePath": "/usr/local/opt/php@8.2/bin/php",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 2.4,
+  "editor.suggestFontSize": 16,
+  "editor.suggestLineHeight": 28,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.6,
+  "workbench.editor.showTabs": "none",
+  "editor.renderLineHighlight": "none",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.scrollbar.verticalScrollbarSize": 15,
+  "editor.scrollbar.vertical": "auto",
+  "explorer.confirmDragAndDrop": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "explorer.confirmDelete": false,
+  "phpCreateClass.strictTypes": true,
+  "errorLens.statusBarIconsEnabled": true,
+  "errorLens.statusBarMessageEnabled": true,
+  "workbench.editor.editorActionsLocation": "titleBar",
+  "editor.minimap.enabled": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "database-client.capitalizeKeywordsWhenFormatting": true,
+  "database-client.highlightSQLBlock": true,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.stickyScroll.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.linkedEditing": true,
+  "terminal.integrated.fontFamily": "Geist Mono, Fira Code, monospace",
+  // "editor.rulers": [80, 120]
+  "typescript.preferences.quoteStyle": "single",
+  "javascript.preferences.quoteStyle": "single",
+  "eslint.codeActionsOnSave.mode": "problems",
+  "editor.formatOnSave": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "php-intellisense.trace.server": "verbose",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "redhat.telemetry.enabled": false,
+
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "prisma.showPrismaDataPlatformNotification": false,
+  "codeium.enableCodeLens": false,
+  "codeium.enableConfig": {
+    "*": true,
+    "typescript": false,
+    "properties": true,
+    "markdown": true,
+    "plaintext": true,
+    "javascriptreact": false
+  },
+  "editor.fontFamily": "Geist Mono, Fira Code, monospace",
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": true,
+  "explorer.compactFolders": false,
+  "css.hover.references": false,
+  "less.hover.references": false,
+  "scss.hover.references": false,
+  "html.hover.references": false,
+  "window.title": "${dirty} ${activeEditorShort}",
+  "editor.inlineSuggest.suppressSuggestions": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "cody.autocomplete.enabled": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "github.copilot.enable": {
+    "*": false,
+    "plaintext": false,
+    "markdown": false,
+    "scminput": false
+  },
+  "workbench.startupEditor": "none",
+  "chat.commandCenter.enabled": false,
+  "window.commandCenter": false,
+  "workbench.colorTheme": "GitHub Dark Palenight",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.autoLockGroups": {
+    "jupyter-notebook": true
+  },
+  "sortcss.sortOnSave": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.wordWrap": "on",
+  "editor.glyphMargin": false,
+  "workbench.sideBar.location": "right",
+
+  "editor.cursorBlinking": "blink",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorSurroundingLines": 3,
+  "editor.cursorSurroundingLinesStyle": "all",
+  "editor.letterSpacing": -0,
+  "workbench.activityBar.location": "hidden"
+}
